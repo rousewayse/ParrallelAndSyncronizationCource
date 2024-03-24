@@ -1,0 +1,5 @@
+virt
+*.out
+pi
+primes
+.~lock*
